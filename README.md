@@ -58,13 +58,15 @@ All credit for the dataset goes to the original creator.
 ### 1. Create a Conda Virtual Environment (Python ≥ 3.10)
 
 conda create -n linear-algebra-finance python=3.10
+
 conda activate linear-algebra-finance
 
-pip install -r requirements.txt
 
 ### 2. Install Dependencies
 
 This repository includes a requirements.txt file.
+
+pip install -r requirements.txt
 
 ### 3. Open the Notebook
 
